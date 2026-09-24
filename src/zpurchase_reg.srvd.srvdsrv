@@ -1,0 +1,5 @@
+@EndUserText.label: 'Purchase Register'
+define service ZPurchase_Reg {
+  expose Z_C_Purchase_Reg;
+  expose Z_C_Purchase_Reg_UI;
+}
